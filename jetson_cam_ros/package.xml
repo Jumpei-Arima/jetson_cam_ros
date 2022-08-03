@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>jetson_cam_ros</name>
+  <version>0.0.0</version>
+  <description>The jetson_cam_ros package</description>
+  <maintainer email="arijun0307@gmail.com">Jumpei Arima</maintainer>
+  <license>TODO</license>
+
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <export>
+  </export>
+</package>
